@@ -1,0 +1,21 @@
+# STM32CubeIDE / Eclipse build outputs
+Debug/
+Release/
+
+# Local IDE settings
+.settings/
+*.launch
+
+# Compiled binaries
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.su
+*.d
+
+# Optional: Ignore Eclipse project files if you want a clean independent repo
+# .project
+# .cproject
+# .mxproject
